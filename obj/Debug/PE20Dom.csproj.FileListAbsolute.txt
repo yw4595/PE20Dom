@@ -1,0 +1,11 @@
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\bin\Debug\PE20Dom.exe.config
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\bin\Debug\PE20Dom.exe
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\bin\Debug\PE20Dom.pdb
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.Form1.resources
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.Properties.Resources.resources
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.csproj.GenerateResource.cache
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.exe
+C:\Users\Wiz\Desktop\IGME 201\PE20Dom\obj\Debug\PE20Dom.pdb
